@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/qiushi/Homemade_ROS_Robot/catkin_ws/devel/setup.sh
