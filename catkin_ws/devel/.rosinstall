@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/q/OpenAGV/catkin_ws/devel/setup.sh
+    local-name: /home/nvidia/OpenAGV/catkin_ws/devel/setup.sh
